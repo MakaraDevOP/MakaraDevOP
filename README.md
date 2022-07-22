@@ -1,8 +1,7 @@
 ### Hi I'm MakaraDevOP 👋
+I'm from បន្ទាយមានជ័យ 🐧🐳
+Programming language that i'm fall in love is  HTML ☕
 
-**MakaraDevOP/MakaraDevOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HTML CSS 
 - 🌱 I’m currently learning JavaScript, 
